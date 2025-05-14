@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+curl-cffi
+pyperclip
+colorama
+lxml
